@@ -1,4 +1,4 @@
-import Arr from '../../my-app/src/components/Array';
+import Arr from '../src/components/Array.js';
 function App(){
   return(
     <Arr/>
